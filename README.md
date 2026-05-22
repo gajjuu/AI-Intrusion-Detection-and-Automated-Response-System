@@ -223,3 +223,6 @@ kill -9 <PID>
 Built with ❤️ using Python, AutoGluon & Flask
 
 </div>
+
+## License
+MIT License — © 2025 Gajendra
